@@ -1,0 +1,1 @@
+Simple script to get the karate club graph from network library of python. Also used to organize the graphs in two files: nodes and links.
