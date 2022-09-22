@@ -1,7 +1,9 @@
 # MAS-project
 
 Category: ABMS
+
 Type: Easy
+
 Software: NetLogo
 
 Abstract
