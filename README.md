@@ -6,8 +6,8 @@ Software: NetLogo
 
 Abstract
     
-The idea for the project comes from the pandemic situation we are still experiencing. I plan to simulate the spread of a virus in a network using the SIR model. There are three different states, S (susceptible individuals),
-I(infected individuals) and R(recovered individuals) and several parameters such as the disease transmission probability, the minimum amount of time a node remains infected, and the recovery probability.
+The idea for the project comes from the pandemic situation we are still experiencing. I plan to simulate the spread of a virus in a network using the SIR model. There are three different states, S (susceptible individuals), I(infected individuals) and R(recovered individuals) and several parameters such as the disease transmission probability, the minimum amount of time a node remains infected, and the recovery probability.
+
 The steps are the following:
 - take a graph
 - label all nodes as S
