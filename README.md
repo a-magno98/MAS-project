@@ -1,4 +1,4 @@
-# MAS-project
+# MAS-project (Project for the course Multi-Agent Systems)
 
 Category: ABMS
 
